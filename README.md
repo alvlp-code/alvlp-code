@@ -4,7 +4,7 @@
 
 </div>
 
-![Preview](https://github.com/MiyagawaMizu/MiyagawaMizu/blob/main/images/bg.webp)
+![Preview](https://telegra.ph/file97a44609ce183b17c7778.jpg)
 
 <a href="https://discord.com/users/1103184003395223563"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1103184003395223563?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
@@ -13,51 +13,28 @@
 
 **Random Developer** 
 
-## **☕ About me**
-<a href="https://github.com/alvlp-xyz"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004207468380240/105017051_p12.png"></a>
-I'm Hikikomori + NEET and my hobbies are playing games, watching anime, reading manga, and sometimes tinkering with random stuff like coding.
-<br><br>
+- Name **ALVLP** / **レイドー・サトリア**
 
-## **💻 Experience**
-<a href="https://github.com/alvlp-xyz"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004173414830210/105017051_p9.png"></a>
-I'm currently studying software engineering at [ICTU - Thai Nguyen University of Information and Communication Technology](https://en.ictu.edu.vn/). Two years of College have passed, and I am still learning. I don't have anything special, but I hope to be able to change that in the future.
+- Live in **Earth, Konoha**
 
+- Good with **Text Editor** , **Google Chrome** , **Calculator** , **FileManager** and **GoogleAccount**
 
-## **📊 Github Stats**
-<!-- <div><a href="https://github.com/alvlp-xyz"><img width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004077621125240/105017051_p13.png"></a><div> -->
-<p align="center"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=alvlp-xyz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/> <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvlp-xyz&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"/>
-</p>
+- Have high experience with **CapCut** and **Google Gallery**
+  
+- Understand Bahasa Indonesia, Bahasa Melayu, and English
 
-<!-- ## **🎧 Spotify**
-<p align="center">
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&redirect=true"><img src="https://spotify-github-profile.vercel.app/api/view?uid=z8vtap612j1ajql4wsyhl074i&cover_image=true&theme=default&show_offline=true&background_color=0d11170&interchange=false&bar_color_cover=true"></a><a href="https://open.spotify.com/user/z8vtap612j1ajql4wsyhl074i?si=6962aa5c8435476f"><img width="525" src="https://spotify-recently-played-readme.vercel.app/api?user=z8vtap612j1ajql4wsyhl074i"></a>
-</p> -->
-
-## **🧋Cutie Counter**
+## **Visitors**
 <!-- <p align="center">
 	<img src="https://moe-counter.glitch.me/get/@alvlp-xyz?theme=moebooru-h"> <br/>
 </p> -->
-<a href="https://discord.com/users/738748102311280681"><img align="right" width=400 src="https://moe-counter.glitch.me/get/@alvlp-xyz?theme=rule34"></a>
-<a href="https://github.com/alvlp-xyz"><img align="left" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1130676248843137035/105634085_p12.png"></a>
-
 ```yaml
-People who visit my profile :3.
-
-Hehe~ another cutie has been caught.
+Scroll ->>                        KoeElek
 ```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
-<a href="https://github.com/alvlp-xyz"><img align="right" width="100" src="https://cdn.discordapp.com/attachments/1077108830862839848/1107004133136945233/105017051_p3.png" /></a>
-**Please Contact me on Discord for a quick response:** [alvlp-xyz](https://discord.com/users/738748102311280681)
+<p align='center'>
+<a href="#"><img src="https://img.shields.io/badge/%23-2e3440?style=for-the-badge"/></a> <a href="https://blog.rei.my.id"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a> <a href="https://facebook.com/elliottophellia"><img src="https://img.shields.io/badge/FACEBOOK-2e3440?style=for-the-badge"/></a> <a href="https://twitter.com/elliottophellia"><img src="https://img.shields.io/badge/TWITTER-2e3440?style=for-the-badge"/></a> <a href="https://instagram.com/elliottophellia"><img src="https://img.shields.io/badge/INSTAGRAM-2e3440?style=for-the-badge"/></a> <a href="https://threads.net/@elliottophellia"><img src="https://img.shields.io/badge/THREAD-2e3440?style=for-the-badge"/></a> <a href="https://t.me/elliottophellia"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a> <a href="https://linkedin.com/in/elliottophellia"><img src="https://img.shields.io/badge/LINKEDIN-2e3440?style=for-the-badge"/></a> <a href="#"><img src="https://img.shields.io/badge/%23-2e3440?style=for-the-badge"/></a>
+</p>
 
-**You can also email me here:** acutegirldoescutethings@gmail.com
 
-<!-- <a href="https://github.com/Meghna-DAS/github-profile-views-counter"><img src="https://komarev.com/ghpvc/?username=alvlp-xyz"> -->
-[![](https://img.shields.io/github/followers/alvlp-xyz?label=Followers&style=social)](https://github.com/alvlp-xyz)
-[![](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.com/users/350945523810959361)
-[![](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/alvlp-xyz)
-[![](https://img.shields.io/badge/Telegram-2ca5e0?logo=telegram&logoColor=white)](https://t.me/alvlp-xyz)
-[![](https://img.shields.io/badge/Steam-1a6a98?logo=steam&logoColor=white)](https://steamcommunity.com/id/alvlp-xyz)
-[![](https://img.shields.io/badge/Mail-D14836?logo=gmail&logoColor=white)](mailto:alvlp-xyz@courvix.com)
-[![](https://img.shields.io/badge/Kofi-ff5c5a?logo=ko-fi&logoColor=white)](https://ko-fi.com/alvlp-xyz)
-<!-- [![alvlp-xyz](https://mizu.is-a.dev/public/alvlp-xyz.png)](https://mizu.is-a.dev/) -->
+<img width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=316muyulax4oajnuagqy2h3te6gu&cover_image=true&theme=novatorem&show_offline=false&background_color=22272e&interchange=false&bar_color=539bf5&bar_color_cover=false"/>
