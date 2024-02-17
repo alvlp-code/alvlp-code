@@ -26,7 +26,7 @@
 
 ## **Other**
 ```yaml
-Scroll ->>                        KoeElek
+Scroll ->>                                                                                             KoeElek
 ```
 <!-- <br><br><br><br> -->
 ## **📫 Contact**
