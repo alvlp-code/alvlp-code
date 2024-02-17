@@ -4,11 +4,11 @@
 
 </div>
 
-![Preview](https://telegra.ph/file97a44609ce183b17c7778.jpg)
+![Preview](https://telegra.ph/file/97a44609ce183b17c7778.jpg)
 
 <a href="https://discord.com/users/1103184003395223563"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1103184003395223563?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 
-
+<br>
 ### Hi!👋
 
 **Random Developer** 
@@ -23,10 +23,7 @@
   
 - Understand Bahasa Indonesia, Bahasa Melayu, and English
 
-## **Visitors**
-<!-- <p align="center">
-	<img src="https://moe-counter.glitch.me/get/@alvlp-xyz?theme=moebooru-h"> <br/>
-</p> -->
+## **Other**
 ```yaml
 Scroll ->>                        KoeElek
 ```
