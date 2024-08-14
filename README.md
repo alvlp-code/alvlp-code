@@ -33,6 +33,3 @@ Scroll ->>                                                                      
 <p align='center'>
 <a href="https://nekonux.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a> <a href="https://t.me/alvlp_unnamed"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
 </p>
-
-
-<img width="100%" src="https://spotify-github-profile.vercel.app/api/view?uid=316muyulax4oajnuagqy2h3te6gu&cover_image=true&theme=novatorem&show_offline=false&background_color=22272e&interchange=false&bar_color=539bf5&bar_color_cover=false"/>
