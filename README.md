@@ -4,9 +4,8 @@
 
 </div>
 
-![Preview](https://github.com/yuna0x0/yuna0x0/blob/master/kita-ikuyo-rap.webp)
+![Preview](https://github.com/alvlp-xyz/alvlp-xyz/blob/main/kurumi.gif)
 
-<a href="https://discord.com/users/1103184003395223563"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/1103184003395223563?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
 <br/>
 
 ### Hi!👋
@@ -32,3 +31,6 @@ Scroll ->>                                                                      
 <p align='center'>
 <a href="https://nekonux.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a> <a href="https://t.me/alvlp_devhunter"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
 </p>
+<br/>
+![Preview](https://github.com/alvlp-xyz/alvlp-xyz/blob/main/tokisaki-kurumi.gif)
+
