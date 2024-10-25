@@ -17,11 +17,17 @@
 - Have high experience with ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  and ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
 - Understand Bahasa Indonesia, English, Jawa
 
+## **Code Statistics**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvlp-xyz&layout=compact&theme=tokyonight" alt="Language stats" />
+</p>
 
 
-```yaml
-Scroll ->>                                                                                             return()
-```
+<img src="https://media1.tenor.com/m/fd21eoZ9LFkAAAAC/koshi-torako-shikanoko.gif"/>
+
+
+
 <!-- <br><br><br><br> -->
 ## **Contact <img src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-1189.gif" width="30"/>**
 
