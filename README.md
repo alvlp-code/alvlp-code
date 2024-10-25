@@ -8,28 +8,30 @@
 
 <br/>
 
-### Hi!👋
+### **Hi! <img src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-14.webp" width="30"/>**
 
-**I'am ALVLP** 
-
+**I'am ALVLP**
 - Name **ALVLP** / **レイドー・サトリア**
-
 - Live in **Isekai, Special Region Of Isekai**
-
-- Good with **NodeJS** , **React** , **Kotlin** , **HTML** and **Java**
-
-- Have high experience with **NodeJS** and **React**
-  
+- Good with ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)  ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)  ![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) 
+- Have high experience with ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)  and ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) 
 - Understand Bahasa Indonesia, English, Jawa
 
-## **Other**
+
+
 ```yaml
 Scroll ->>                                                                                             return()
 ```
 <!-- <br><br><br><br> -->
-## **📫 Contact**
+## **Contact <img src="https://www.icegif.com/wp-content/uploads/2022/07/icegif-1189.gif" width="30"/>**
+
 <p align='center'>
-  <a href="https://nekonux.vercel.app"><img src="https://img.shields.io/badge/WEBSITE-2e3440?style=for-the-badge"/></a>
-  <a href="https://t.me/alvlp_devhunter"><img src="https://img.shields.io/badge/TELEGRAM-2e3440?style=for-the-badge"/></a>
+  <a href="https://nekonux.vercel.app">
+    <img src="https://img.shields.io/badge/Website-800000?style=for-the-badge&logo=anilist&logoColor=white" />
+  </a>
+  <a href="https://t.me/alvlp_devhunter">
+    <img src="https://img.shields.io/badge/Telegram-BF0000?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
 </p>
+
 <br/>
