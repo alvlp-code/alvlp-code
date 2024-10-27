@@ -24,7 +24,7 @@
 </p>
 
 
-<img src="https://media1.tenor.com/m/fd21eoZ9LFkAAAAC/koshi-torako-shikanoko.gif"/>
+<img src="https://i.kym-cdn.com/entries/icons/original/000/051/500/ruby_dancing.gif"/>
 
 
 
