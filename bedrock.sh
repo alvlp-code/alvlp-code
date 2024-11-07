@@ -41,7 +41,7 @@ apt-get install -y wget unzip supervisor curl
 # Download and install lateast Minecraft Bedrock Edition Server.
 source=$(curl -s -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36" https://www.minecraft.net/en-us/download/server/bedrock)
 
-link=$(echo "$source" | grep -o 'https://www.minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1.21.3.zip' | sed 's/"//g')
+link=$(echo "$source" | grep -o 'https://www.minecraft.net/bedrockdedicatedserver/bin-linux/bedrock-server-1\.21\.3\.zip' | sed 's/"//g')
 
 zip_file=$(basename "$link")
 
