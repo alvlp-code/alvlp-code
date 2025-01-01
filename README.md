@@ -20,7 +20,7 @@
 ## **Code Statistics**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvlp-xyz&layout=compact&theme=tokyonight" alt="Language stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvlp-code&layout=compact&theme=tokyonight" alt="Language stats" />
 </p>
 
 
