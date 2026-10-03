@@ -135,7 +135,7 @@ Music Visualization
 
 </td>
 <td width="40%" valign="top" align="center" style="overflow:hidden">
-  <img width="100%" style="object-fit:cover;height:100%" src="https://static.zerochan.net/Hiyuki.%28Wuthering.Waves%29.1024.4722977.webp"/>
+  <img width="100%" style="object-fit:cover;height:100%" src="https://static.zerochan.net/Kuchiba.Chisa.1024.4600875.webp"/>
 </td>
 </tr>
 </table>
