@@ -23,7 +23,7 @@ Focused on **interactive interfaces, shaders, and game architecture**.
 
 </td>
 <td width="40%" valign="top" align="center">
-<img src="https://static.zerochan.net/Kuchiba.Chisa.1024.4622263.webp" width="100%" height="280" style="width:100%!important;height:280px!important;object-fit:cover!important;display:block!important;max-width:none!important"/>
+<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/alvlp-code/alvlp-code/refs/heads/main/Kuchiba.Chisa.full.4622263.png&w=400&h=280&fit=cover&output=jpg.jpg" width="100%"/>
 </td>
 </tr>
 </table>
@@ -60,7 +60,7 @@ Focused on **interactive interfaces, shaders, and game architecture**.
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tr>
 <td width="40%" valign="top" align="center">
-<img src="https://static.zerochan.net/Kuchiba.Chisa.1024.4619418.webp" width="100%" height="220" style="width:100%!important;height:220px!important;object-fit:cover!important;display:block!important;max-width:none!important"/>
+<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/alvlp-code/alvlp-code/refs/heads/main/Kuchiba.Chisa.1024.4619418.png&w=400&h=220&fit=cover&output=jpg.jpg" width="100%"/>
 </td>
 <td width="60%" valign="top">
 
@@ -135,7 +135,7 @@ Music Visualization
 
 </td>
 <td width="40%" valign="top" align="center">
-<img src="https://static.zerochan.net/Kuchiba.Chisa.1024.4600875.webp" width="100%" height="220" style="width:100%!important;height:220px!important;object-fit:cover!important;display:block!important;max-width:none!important"/>
+<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/alvlp-code/alvlp-code/refs/heads/main/Kuchiba.Chisa.full.4600875.png&w=400&h=220&fit=cover&output=jpg.jpg" width="100%"/>
 </td>
 </tr>
 </table>
