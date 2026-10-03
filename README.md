@@ -23,7 +23,7 @@ Focused on **interactive interfaces, shaders, and game architecture**.
 
 </td>
 <td width="40%" valign="top" align="center" style="overflow:hidden">
-  <img width="100%" style="object-fit:cover;height:100%" src="https://s3.zerochan.net/240/26/16/4508326.avif"/>
+  <img width="100%" style="object-fit:cover;height:100%" src="https://static.zerochan.net/Kuchiba.Chisa.full.4639727.jpg"/>
 </td>
 </tr>
 </table>
@@ -60,7 +60,7 @@ Focused on **interactive interfaces, shaders, and game architecture**.
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tr>
 <td width="40%" valign="top" align="center" style="overflow:hidden">
-  <img width="100%" style="object-fit:cover;height:100%" src="https://s3.zerochan.net/240/35/18/4498435.avif"/>
+  <img width="100%" style="object-fit:cover;height:100%" src="https://static.zerochan.net/Kuchiba.Chisa.1024.4619418.webp"/>
 </td>
 <td width="60%" valign="top">
 
