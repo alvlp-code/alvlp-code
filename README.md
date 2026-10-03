@@ -22,8 +22,10 @@ Focused on **interactive interfaces, shaders, and game architecture**.
 `BUILDING` · `EXPERIMENTING` · `SHIPPING`
 
 </td>
-<td width="40%" valign="top" align="center" style="overflow:hidden">
-  <img width="100%" style="object-fit:cover;height:100%" src="https://static.zerochan.net/Kuchiba.Chisa.full.4639727.jpg"/>
+<td width="40%" valign="top" align="center">
+  <div style="width:100%;height:280px;overflow:hidden">
+    <img width="100%" height="280" style="object-fit:cover" src="https://static.zerochan.net/Kuchiba.Chisa.1024.4622263.webp"/>
+  </div>
 </td>
 </tr>
 </table>
@@ -59,8 +61,10 @@ Focused on **interactive interfaces, shaders, and game architecture**.
 
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tr>
-<td width="40%" valign="top" align="center" style="overflow:hidden">
-  <img width="100%" style="object-fit:cover;height:100%" src="https://static.zerochan.net/Kuchiba.Chisa.1024.4619418.webp"/>
+<td width="40%" valign="top" align="center">
+  <div style="width:100%;height:220px;overflow:hidden">
+    <img width="100%" height="220" style="object-fit:cover" src="https://static.zerochan.net/Kuchiba.Chisa.1024.4619418.webp"/>
+  </div>
 </td>
 <td width="60%" valign="top">
 
@@ -83,7 +87,7 @@ Focused on **interactive interfaces, shaders, and game architecture**.
 <tr>
 <td width="50%" valign="top">
 
-** LUMINARIS**  
+**✦ LUMINARIS**  
 Modular WhatsApp Automation  
 `Bun` `TS` `Baileys`
 
@@ -94,11 +98,11 @@ Private Realtime Messenger
 </td>
 <td width="50%" valign="top">
 
-** CBTEX**  
+**✦ CBTEX**  
 Examination Platform  
 `React` `Node` `SQLite`
 
-** FLOW MODE**  
+**✦ FLOW MODE**  
 Music Visualization  
 `Three.js` `WebGL` `Audio`
 
@@ -117,7 +121,7 @@ Music Visualization
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alvlp-code&bg_color=19151B&color=FFFFFF&line=FF4F9A&point=FF77B7&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvlp-code&show_icons=true&hide_border=true&bg_color=19151B&title_color=FF6FAE&text_color=FFFFFF&icon_color=FF4F9A&layout=compact" width="60%"/>
 
 </div>
 
@@ -134,8 +138,10 @@ Music Visualization
 **Facts**: coffee required · bugs inevitable · refactoring fun
 
 </td>
-<td width="40%" valign="top" align="center" style="overflow:hidden">
-  <img width="100%" style="object-fit:cover;height:100%" src="https://static.zerochan.net/Kuchiba.Chisa.1024.4600875.webp"/>
+<td width="40%" valign="top" align="center">
+  <div style="width:100%;height:220px;overflow:hidden">
+    <img width="100%" height="220" style="object-fit:cover" src="https://static.zerochan.net/Kuchiba.Chisa.1024.4600875.webp"/>
+  </div>
 </td>
 </tr>
 </table>
