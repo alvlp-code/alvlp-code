@@ -23,9 +23,7 @@ Focused on **interactive interfaces, shaders, and game architecture**.
 
 </td>
 <td width="40%" valign="top" align="center">
-  <div style="width:100%;height:280px;overflow:hidden">
-    <img width="100%" height="280" style="object-fit:cover" src="https://static.zerochan.net/Kuchiba.Chisa.1024.4622263.webp"/>
-  </div>
+<img src="https://static.zerochan.net/Kuchiba.Chisa.1024.4622263.webp" width="100%" height="280" style="width:100%!important;height:280px!important;object-fit:cover!important;display:block!important;max-width:none!important"/>
 </td>
 </tr>
 </table>
@@ -62,9 +60,7 @@ Focused on **interactive interfaces, shaders, and game architecture**.
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tr>
 <td width="40%" valign="top" align="center">
-  <div style="width:100%;height:220px;overflow:hidden">
-    <img width="100%" height="220" style="object-fit:cover" src="https://static.zerochan.net/Kuchiba.Chisa.1024.4619418.webp"/>
-  </div>
+<img src="https://static.zerochan.net/Kuchiba.Chisa.1024.4619418.webp" width="100%" height="220" style="width:100%!important;height:220px!important;object-fit:cover!important;display:block!important;max-width:none!important"/>
 </td>
 <td width="60%" valign="top">
 
@@ -139,9 +135,7 @@ Music Visualization
 
 </td>
 <td width="40%" valign="top" align="center">
-  <div style="width:100%;height:220px;overflow:hidden">
-    <img width="100%" height="220" style="object-fit:cover" src="https://static.zerochan.net/Kuchiba.Chisa.1024.4600875.webp"/>
-  </div>
+<img src="https://static.zerochan.net/Kuchiba.Chisa.1024.4600875.webp" width="100%" height="220" style="width:100%!important;height:220px!important;object-fit:cover!important;display:block!important;max-width:none!important"/>
 </td>
 </tr>
 </table>
