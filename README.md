@@ -6,9 +6,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&text=FROEGEG&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=42&color=0:161219,50:53143D,78:E83B91,100:FF75B5" width="100%"/>
 </div>
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td width="60%" valign="top">
+<img align="right" width="38%" src="https://raw.githubusercontent.com/alvlp-code/alvlp-code/refs/heads/main/Kuchiba.Chisa.full.4622263.png" />
 
 ### `alvlp-code`
 
@@ -21,12 +19,7 @@ Focused on **interactive interfaces, shaders, and game architecture**.
 
 `BUILDING` · `EXPERIMENTING` · `SHIPPING`
 
-</td>
-<td width="40%" valign="top" align="center">
-<img src="https://raw.githubusercontent.com/alvlp-code/alvlp-code/refs/heads/main/Kuchiba.Chisa.full.4622263.png" width="100%"/>
-</td>
-</tr>
-</table>
+<br clear="all"/>
 
 ---
 
@@ -57,23 +50,16 @@ Focused on **interactive interfaces, shaders, and game architecture**.
 
 ---
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td width="40%" valign="top" align="center">
-<img src="https://raw.githubusercontent.com/alvlp-code/alvlp-code/refs/heads/main/Kuchiba.Chisa.full.4619418.png" width="100%"/>
-</td>
-<td width="60%" valign="top">
+<img align="left" width="34%" src="https://raw.githubusercontent.com/alvlp-code/alvlp-code/refs/heads/main/Kuchiba.Chisa.full.4619418.png" />
 
 ### `02` / CURRENTLY
 
 - **WebGPU** — GPU-driven visuals
-- **ECS** — scalable game architecture  
+- **ECS** — scalable game architecture
 - **Shaders** — visual experiments
 - **Game Systems** — reusable mechanics
 
-</td>
-</tr>
-</table>
+<br clear="all"/>
 
 ---
 
@@ -98,7 +84,7 @@ Private Realtime Messenger
 Examination Platform  
 `React` `Node` `SQLite`
 
-** FLOW MODE**  
+**✦ FLOW MODE**  
 Music Visualization  
 `Three.js` `WebGL` `Audio`
 
@@ -123,9 +109,7 @@ Music Visualization
 
 ---
 
-<table width="100%" cellpadding="0" cellspacing="0" border="0">
-<tr>
-<td width="60%" valign="top">
+<img align="right" width="34%" src="https://raw.githubusercontent.com/alvlp-code/alvlp-code/refs/heads/main/Kuchiba.Chisa.full.4600875.png" />
 
 ### `05` / MORE
 
@@ -133,12 +117,7 @@ Music Visualization
 **Enjoy**: `Anime` `Pixel Art` `Shaders` `Game Design` `Linux`  
 **Facts**: coffee required · bugs inevitable · refactoring fun
 
-</td>
-<td width="40%" valign="top" align="center">
-<img src="https://raw.githubusercontent.com/alvlp-code/alvlp-code/refs/heads/main/Kuchiba.Chisa.full.4600875.png" width="100%"/>
-</td>
-</tr>
-</table>
+<br clear="all"/>
 
 ---
 
