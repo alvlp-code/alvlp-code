@@ -23,7 +23,7 @@ Focused on **interactive interfaces, shaders, and game architecture**.
 
 </td>
 <td width="40%" valign="top" align="center">
-<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/alvlp-code/alvlp-code/refs/heads/main/Kuchiba.Chisa.full.4622263.png&w=400&h=280&fit=cover&output=jpg.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/alvlp-code/alvlp-code/refs/heads/main/Kuchiba.Chisa.full.4622263.png" width="100%"/>
 </td>
 </tr>
 </table>
@@ -60,7 +60,7 @@ Focused on **interactive interfaces, shaders, and game architecture**.
 <table width="100%" cellpadding="0" cellspacing="0" border="0">
 <tr>
 <td width="40%" valign="top" align="center">
-<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/alvlp-code/alvlp-code/refs/heads/main/Kuchiba.Chisa.1024.4619418.png&w=400&h=220&fit=cover&output=jpg.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/alvlp-code/alvlp-code/refs/heads/main/Kuchiba.Chisa.full.4619418.png" width="100%"/>
 </td>
 <td width="60%" valign="top">
 
@@ -98,7 +98,7 @@ Private Realtime Messenger
 Examination Platform  
 `React` `Node` `SQLite`
 
-**✦ FLOW MODE**  
+** FLOW MODE**  
 Music Visualization  
 `Three.js` `WebGL` `Audio`
 
@@ -135,7 +135,7 @@ Music Visualization
 
 </td>
 <td width="40%" valign="top" align="center">
-<img src="https://images.weserv.nl/?url=https://raw.githubusercontent.com/alvlp-code/alvlp-code/refs/heads/main/Kuchiba.Chisa.full.4600875.png&w=400&h=220&fit=cover&output=jpg.jpg" width="100%"/>
+<img src="https://raw.githubusercontent.com/alvlp-code/alvlp-code/refs/heads/main/Kuchiba.Chisa.full.4600875.png" width="100%"/>
 </td>
 </tr>
 </table>
