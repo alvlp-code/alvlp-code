@@ -10,7 +10,7 @@
 
 ### `alvlp-code`
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2400&pause=700&color=FF6FAE&width=400&lines=building+games+%26+systems;crafting+interfaces+that+feel+alive" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=13&duration=2400&pause=700&color=FF6FAE&width=400&lines=Building+things+that+shouldn't+need+to+exist.;Full-Stack+%2B+Realtime+%2B+Graphics;Game+Development+%2F+WebGL+%2F+Automation;Turning+ideas+into+working+systems." />
 
 **Game Dev · Full-Stack · Creative Coder**
 
